@@ -58,4 +58,3 @@ void loop() {
 
   delay(10000);  // Send every 10 seconds
 }
-
